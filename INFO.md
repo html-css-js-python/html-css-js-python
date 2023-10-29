@@ -1,5 +1,5 @@
 ## Informations of HTML CSS JS
-No data.
+Not data.
 
 ### Links:
 - [MAIN INFO](README.md)
