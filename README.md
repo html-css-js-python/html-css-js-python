@@ -4,6 +4,6 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Python
 
-## My hobby
+### My hobby
 - 💻 Programing
 - ⌨️ e-sports
