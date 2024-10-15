@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m [@html-css-js-python](INFO.md)
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 
 ### My hobby
 - 💻 Programing
